@@ -1,4 +1,4 @@
-# GitHub Certifications Guide 🚀
+# GitHub Certifications Workbook 🚀
 
 All about GitHub certifications! 🎉 
 
@@ -16,6 +16,5 @@ Earning a GitHub certification will give you the competitive advantage of showin
 | [GitHub Administration](https://learn.microsoft.com/collections/mom7u1gzjdxw03?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)        | Learn to maintain a healthy, robust, and secure GitHub environment | [GitHub Admin Guide](./study-guides/gh-administration.md) |
 | [GitHub CoPilot](https://examregistration.github.com/exam/COPILOT)        | Learn how to use the AI-driven code completion tool in various programming languages and optimize software development workflows efficiently| [GitHub Copilot Guide](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/)
 
-**Candidate Handbook** available here: [GitHub Certification Handbook](https://examregistration.github.com/handbook).
+**Candidate Handbook** available [here](https://examregistration.github.com/handbook).
 
-![GitHub Certifications](image.png)
